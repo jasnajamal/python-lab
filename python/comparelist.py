@@ -18,5 +18,6 @@ for i in list1:
     if i in list2:
         print("common value fount:",i)
         break;
-    else:
-        print("no common value fount")
+else:
+    print("no common value fount")
+
