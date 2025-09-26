@@ -1,6 +1,0 @@
-a=int(input("first no:"))
-b=int(input("second no:"))
-print("sum of two num:",a+b)
-print("divide two num:",a/b)
-print("subtract two num:",a-b)
-print("multiply two num:",a*b)
